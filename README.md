@@ -19,7 +19,7 @@ He alse needed a way to create accounts for his employees, see the pictures, the
 
 **How the mobile application works**
 
-- Download the seneafood mobile application <a id="raw-url" href="https://drive.google.com/file/d/19BtD-j8JvmJcCqWU8zAd_3Qgl-qSfmV1/view?usp=sharing">here</a>
+- Download the seneafood mobile application
 - Login into your account and choose the store you're visiting
 - Start to take pictures of the seneafood supermarket shelf
 - Input the quantities of each product on the shelf
